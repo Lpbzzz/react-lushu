@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "lpb",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lpbzzz/react-lushu.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Lpbzzz/react-lushu/issues"
+  },
+  "homepage": "https://github.com/Lpbzzz/react-lushu#readme"
 }
