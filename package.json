@@ -1,6 +1,6 @@
 {
   "name": "react-lushu",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "lushu",
   "main": "lib/index.js",
   "scripts": {
